@@ -1,0 +1,14 @@
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe.config
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\bin\Debug\ObjToStl.pdb
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.AssemblyReference.cache
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.CoreCompileInputs.cache
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.exe
+D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.pdb
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe.config
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\bin\Debug\ObjToStl.pdb
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.AssemblyReference.cache
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.CoreCompileInputs.cache
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\obj\Debug\ObjToStl.exe
+D:\Divyaansh_Workspace\C#\TranslatorUsingCSharp\ObjToStl\ObjToStl\obj\Debug\ObjToStl.pdb

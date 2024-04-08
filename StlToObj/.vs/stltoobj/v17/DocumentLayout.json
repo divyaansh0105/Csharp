@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|d:\\divyaansh_workspace\\c#\\translatorusingcsharp\\stltoobj\\stltoobj\\headers\\triangulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\triangulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\stltoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\stltoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulation.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Triangulation.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\Triangulation.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Triangulation.cs",
+              "RelativeToolTip": "stltoobj\\headers\\Triangulation.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:58:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Triangle.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\Triangle.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Triangle.cs",
+              "RelativeToolTip": "stltoobj\\headers\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:58:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StlToObj.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\StlToObj.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\StlToObj.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\StlToObj.cs",
+              "RelativeToolTip": "stltoobj\\headers\\StlToObj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:30:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StlReader.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\StlReader.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\StlReader.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\StlReader.cs",
+              "RelativeToolTip": "stltoobj\\headers\\StlReader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:29:56.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Point3D.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\Point3D.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\headers\\Point3D.cs",
+              "RelativeToolTip": "stltoobj\\headers\\Point3D.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:29:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\Program.cs",
+              "RelativeDocumentMoniker": "stltoobj\\Program.cs",
+              "ToolTip": "D:\\Divyaansh_Workspace\\C#\\TranslatorUsingCSharp\\StlToObj\\stltoobj\\Program.cs",
+              "RelativeToolTip": "stltoobj\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:28:39.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
